@@ -1,7 +1,7 @@
 {
   "name": "robo_c6",
   "type": "commonjs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -17,8 +17,6 @@
     "pino": "^9.3.2",
     "pino-pretty": "^11.2.2",
     "puppeteer": "19.8.0",
-    "puppeteer-extra": "^3.3.6",
-    "puppeteer-extra-plugin-user-preferences": "^2.4.1",
     "sequelize": "^6.37.0",
     "sequelize-typescript": "^2.1.6"
   },
