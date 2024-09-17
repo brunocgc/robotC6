@@ -3,7 +3,7 @@
   "type": "commonjs",
   "version": "1.0.4",
   "description": "",
-  "main": "dist/index.js",
+  "main": "robot.obfuscator.js",
   "scripts": {
     "start": "node robot.obfuscator.js"
   },
