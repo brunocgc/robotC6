@@ -16,7 +16,7 @@
     "node-telegram-bot-api": "^0.66.0",
     "pino": "^9.3.2",
     "pino-pretty": "^11.2.2",
-    "puppeteer": "19.8.0",
+    "puppeteer": "^23.3.1",
     "sequelize": "^6.37.0",
     "sequelize-typescript": "^2.1.6"
   },
